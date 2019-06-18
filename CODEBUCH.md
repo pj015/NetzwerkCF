@@ -2,14 +2,31 @@
 
 Codebuch Netzwerkanalyse „Christiane F.“
 
+WICHTIG 
+
+Keine Personengruppen
+Keine Zahlen in IDs
+IDs max. 3 
+Nur Drogen in der gesamten Beziehung, kein Einzelkonsum 
+
 Edge-List
 
-von 		Definiert die Person (z.B. Christiane F.), von der die Beziehungen ausgehen Angabe von ID?	
+von 		Definiert die Person (z.B. Christiane F.), von der die Beziehungen ausgehen	
 
-zu		Definiert die Personen zu denen die Beziehung aufgebaut wird Angabe von ID?
+zu		Definiert die Personen zu denen die Beziehung aufgebaut wird 
 
-zeit		Definiert den Zeitraum, in dem die Beziehung aufgebaut wird (von Jugend bis zum jetzigen Erwachsenenalter) 
-		
+ort		Definiert den Ort, an dem das Geschehene passiert
+
+		1 = Deutschland (Berlin)
+		2 = Deutschland (Hamburg) 
+		3 = Griechenland 
+		4 = Amerika
+		5 = Schweiz
+		6 = sonstige
+		5 = NA
+
+alter		Definiert das Alter der Person (immer in der Angabe, wie alt CF ist?) 
+
 		1 = 10-15 Jahre 
 		2 = 16-20 Jahre
 		3 = 21-25 Jahre
@@ -17,16 +34,6 @@ zeit		Definiert den Zeitraum, in dem die Beziehung aufgebaut wird (von Jugend bi
 		5 = 31-40 Jahre
 		6 = über 40 Jahre
 		7 = NA
-
-ort		Definiert den Ort, an dem das Geschehene passiert
-
-		1 = Deutschland (Berlin)
-		2 = Deutschland (Hamburg) 
-		3 = Griechenland 
-		4 = anderer
-		5 = NA
-
-alter		Definiert das Alter der Person (immer in der Angabe, wie alt CF ist?) → siehe oben
 
 beziehung		Definiert die Beziehung, die zu der Person aufgebaut ist/ wird
 
@@ -41,62 +48,37 @@ beziehung		Definiert die Beziehung, die zu der Person aufgebaut ist/ wird
 		9 = Expartner
 		10 = NA
 
-drogen 1		Definiert die Art der Drogen, die konsumiert werden
+droge 1		Definiert die Droge Alkohol
 		
-		1 = Alkohol
-		2 = Marihuana
-		3 = Heroin
-		4 = Kokain
-		5 = Entzug
-		6 = NA
-	
-konsumstärke 2	Definiert die Stärke des Konsums der Droge(n)
-
-		1 = Junkie
-		2 = 1-3 mal die Woche
-		3 = monatlich
-		4 = Entzug 
-		5 = NA
-
-drogen 2		Definiert die Art der Drogen, falls eine zweite konsumiert wird
+		1 = Konsum
+		2 = Kein Konsum
+		3 = NA
 		
-		1 = Alkohol
-		2 = Marihuana
-		3 = Heroin
-		4 = Kokain
-		5 = Entzug
-		6 = NA
-	
-konsumstärke 2	Definiert die Stärke des Konsums der Droge(n), falls eine zweite konsumiert wird
+droge 2		Definiert die Droge Marihuana
 
-		1 = Junkie
-		2 = 1-3 mal die Woche
-		3 = monatlich
-		4 = Entzug 
-		5 = NA
-
-
-drogen 3		Definiert die Art der Drogen, falls eine dritte konsumiert wird
+		1 = Konsum
+		2 = Kein Konsum
+		3 = NA
 		
-		1 = Alkohol
-		2 = Marihuana
-		3 = Heroin
-		4 = Kokain
-		5 = Entzug
-		6 = NA
-	
-konsumstärke 3	Definiert die Stärke des Konsums der Droge(n), falls eine dritte konsumiert wird
+droge 3		Definiert die Droge Heroin
 
-		1 = Junkie
-		2 = 1-3 mal die Woche
-		3 = monatlich
-		4 = Entzug 
-		5 = NA
+		1 = Konsum
+		2 = Kein Konsum
+		3 = NA
 
+droge 4		Definiert die Droge Kokain
+
+		1 = Konsum
+		2 = Kein Konsum
+		3 = NA
+
+droge 5		Definiert sonstige Drogen
+
+		1 = Konsum
+		2 = Kein Konsum
+	  	3 = NA
 
 Node-List
-
-(jahr / zeitspanne)	Intern zur besseren Orientierung, Definiert den Zeitpunkt der Geschehnisse 
 
 id		Gibt Kürzel der Namen an
 
@@ -114,3 +96,5 @@ zustand		Definiert den Zustand der Person nach der letzten Erwähnung
 		1 = lebend
 		2 = tot
 		3 = NA
+			
+
