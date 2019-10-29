@@ -1,0 +1,233 @@
+id,name,geschlecht,zustand
+CF,Christiane F,2,1
+DGB,Detlev Gode Benedix,1,1
+DB,David Bowie,1,1
+DE,Detlef,1,1
+BB,Ben Becker,1,1
+EM,Embryo von Gode,3,2
+MS,Monika Sander Becker,2,1
+MES,Meret Sander Becker,2,1
+AH,Alexander Hacke,1,1
+PA,Panagiotis,1,1
+CH,Christos Panagiotis Bruder,1,1
+MA,Maria Christos Freundin,2,1
+EMB,Embryo von Panagiotis,3,2
+CFM,Christianes Mutter,2,1
+PH,Philip Christianes Sohn,1,1
+SE,Sebastian,1,1
+SEM,Sebastians Mutter,2,1
+CFS,Anette Christianes Schwester,2,1
+CFV,Christianes Vater,1,1
+KM,Klaus Maeck,1,1
+FMS,Frank Martin Strauß,1,1
+RR,Ralf Richter Mufti,1,1
+JH,Jochen Hildisch,1,1
+FZ,Frank Ziegert,1,1
+CP,Campino Tote Hosen,1,1
+CFO,Christianes Oma Hessen,2,1
+CFT,Christianes Tante,2,1
+CO,Christianes Cousin Eins,1,1
+CCO,Christianes Cousin Zwei,1,2
+HR,Horst Rieck,1,1
+KH,Kai Hermann,1,1
+NW,Nikolai Walter,1,1
+BLB,Blixa Bargeld,1,1
+BE,Bernd Eichinger,1,1
+UE,Uli Edel,1,1
+HW,Herman Weigel,1,1
+RB,Rodney Bingenheimer,1,1
+BI,Billy Idol,1,1
+NH,Nina Hagen,2,1
+RI,Rick,1,1
+RF,Ricks Freundin,2,1
+F,Franziska,2,1
+GI,Guido,1,1
+GIM,Miriam Guidos Freundin,2,1
+B,Beate,2,1
+H,Hatice,2,1
+J,Josephine,2,1
+HE,Heiko,1,1
+P,Paco,1,1
+FRI,Fritz,1,1
+HC,Hector Coggins,1,1
+BJ,Brian Johnson,1,1
+AK,Anna Keel,2,2
+DK,Daniel Keel,1,2
+JK,Jakob Keel Koebi,1,1
+PK,Philipp Keel,1,1
+FD,Friedrich Duerenmatt,1,1
+PHI,Patricia Highsmith,2,1
+L,Loriot,1,1
+FVK,Freund von Koebi,1,1
+G,Greg,1,1
+HB,Herr Brecht,1,1
+AT,Anna Tollkuehn,2,1
+O,Olga,2,1
+FH,Frau Blume,2,1
+MJ,Marijanna,2,1
+PAS,Panagiotis Schwester,2,1
+EMO,Embryo Zwei von Panagiotis,3,2
+LM,Liane Mayer,2,2
+BIB,Bibi,2,2
+MAR,Martha,2,2
+KU,Kurt,1,2
+BM,Beckermann,1,1
+DR,Dragan,1,1
+T,Thorsten,1,1
+JU,Jule,2,1
+FEX,Felix,1,1
+BN,Bernd,1,1
+FP,Frau Peters,2,1
+HP,Herr Peters,1,1
+MY,Maya,2,1
+BV,Bauer Voelkel,1,1
+JB,Junge Boss in Gropiusstadt,1,1
+CL,Christianes Lehrerin,2,1
+GV,Christianes Urgroßvater vaeterlicherseits,1,3
+OP,Christianes Opa vaeterlicherseits,1,3
+HA,Hauswart,1,1
+HF,Hauswartsfrau,2,1
+HEINK,Hauswart Einkaufszentrum,1,1
+SOZ,Sozialarbeiter auf Spielplatz,1,1
+AM,Arbeitskollegin Mutter,2,1
+KL,Klaus,1,1
+VF,Vaters junge Freundin,2,1
+KE,Kessi,2,1
+MI,Milan,1,1
+KEMU,Kessis Mutter,2,1
+PI,Piet,1,1
+KA,Kathi,2,1
+FRAN,Frank,1,1
+PAULI,Pauli,1,1
+PF,Piets Freundin,2,1
+FRD,Frau mit Dogge,2,1
+CR,Christianes Lehrer,1,1
+PE,Peggy,2,1
+MICHA,Micha,1,1
+ATZ,Atze,1,2
+AS,Astrid,1,1
+BLBY,Blacky,1,1
+BS,Bienenstich,1,1
+UW,Uwe,1,1
+MO,Moni,2,1
+PT,Panther,1,1
+AB,Abgewrackte Braut,2,1
+BERN,Bernd,1,1
+AN,Angi,2,1
+RIC,Richie Kuechenchef Sound,1,1
+ST,Stella,2,1
+BABS,Babsi,2,2
+BABSV,Babsis Vater,1,2
+BABSM,Babsis Mutter,2,1
+BABSSV,Babsis Stiefvater,1,1
+BABSG,Babsis Großmutter,2,1
+SM,Stellas Mutter,2,1
+SV,Stellas Vater,1,2
+DO,Detlefs Oma,2,1
+TI,Tina aus dem Sound,2,1
+FI,Fixer Eins,1,1
+DV,Detlefs Vater,1,1
+CFPA,Christianes Patentante,2,1
+AR,Arzt Kinderstation Schwarzwald,1,1
+AX,Axel,1,2
+XM,Axels Mutter,2,1
+TM,Typ im Mercedes,1,1
+SD,Stammdealer,1,1
+RE,Renate,2,1
+SA,Stottermax,1,1
+SAM,Stottermax Mutter,2,1
+FRHE,Freier Heinz,1,1
+FS,Freund Stellas Mutter,1,1
+LIMA,Linker Manne,1,1
+DC,Detlefs Chef,1,1
+JUER,Juergen,1,1
+JT,Jungscher Typ,1,1
+LU,Lufo,1,2
+SF,Simone Atzes Freundin,2,1
+AV,Atzes Vater,1,1
+AO,Atzes Oma,2,1
+HM,Herr Muecke,1,1
+DT,Detlefs Tante,2,1
+DN,Detlefs Onkel,1,1
+ZB,Zivilbulle,1,1
+PO,Polizistin,2,1
+BU,Bulle,1,1
+VT,Verfaulter Typ,1,1
+CFOPA,Christianes Opa,1,2
+CFCOU,Christianes Cousine,1,1
+JD,Junge aus Duesseldorf,1,1
+FRERO,Freier Rolf,1,1
+OK,Opa am Kudamm,1,1
+BMSDA,Bulle mit Akzent,1,1
+GT,Geschaeftsfuehrer Typ,1,1
+GS,Gemeinsamer Stammfreier,1,1
+SP,Frau Schipke,2,1
+DRBE,Drogenberaterin,2,1
+TB,Typ mit Bart,1,1
+FC,Freier Commodore,1,1
+TN,Typ von Narkonon,1,1
+CHRST,Christa,2,1
+EF,Ehemaliger Fixer,1,1
+MW,Maedchen Waschkueche,2,1
+GA,Gabi,2,1
+GY,Gabis Typ,1,1
+OB,BND Freier,1,1
+TH,Hundeverkaeufer,1,1
+NB,Narkonon Boss,1,1
+MU,Mustafa,1,1
+HH,Der Hehler,1,1
+STAHE,Stammdealer Heinz,1,1
+BABSD,Babsis Dorgenberater,1,1
+PFOEKH,Pfoertner des Krankenhauses,1,1
+EA,Erstbester Arzt,1,1
+BG,Typ Babsi gefunden,1,1
+NS,Kleiner Junge,1,1
+MB,Monika Berberich RAF,2,1
+TINA,Tina Zwei,2,1
+BF,Bulle Freier,1,1
+FU,Freier Haschisch,1,1
+LT,Linkester Typ Freier,1,1
+PU,Pueppi,2,1
+BW,Boss der Weißkittel,1,1
+ON,Oberarzt Narkonon,1,1
+AZ,Aerztin auf der Station,2,1
+OR,Oma Krankenhaus,2,1
+JUKEDE,Unerfahrener Jungscher Kerl,1,1
+MIBUL,Mistkerl von Bulle,1,1
+JA,Jungscher Assistenzarzt,1,1
+WI,Wilhelm,1,1
+CD,Christianes Drogenberater,1,1
+SCARZ,Schwuler Arzt,1,1
+KF,Freier Grieche,1,1
+IN,Ingo,1,2
+PIKO,Piko,1,1
+BH,Typ Bahnhof Zoo,1,1
+OMA,Christianes Oma,2,1
+CFONK,Christianes Onkel,1,1
+TA,Tante Hedwig,2,1
+TD,Tante Ida,2,1
+JO,Jochen,1,1
+RERE,Realschulrektor,1,1
+HARE,Hauptschulrektor,1,1
+NK,Neuer Klassenlehrer,1,1
+PN,Punker,1,1
+EL,Elke,2,1
+ER,Elkes Freund,1,1
+RO,Rosi,2,1
+RT,Rosis Typ,1,1
+CT,Christianes Typ,1,1
+LE,Lehrer,1,1
+KMF,Freund Kessis Mutter,1,1
+CMF,Exchef Christianes Mutter,1,1
+FSM,Freund Stellas Mutter,1,1
+LKL,Lehrer Klassenfahrt,1,1
+BEF,Freier von Bernd,1,1
+AXF,Freund Axels Mutter,1,1
+CC,Cousin Hessen,1,1
+FDE,Fremder Dealer,1,1
+KAT,Katharina Narkonon,2,1
+AWH,Anwalt Heinz,1,1
+TAA,Tina Eins,2,1
+FWI,Freier von Wilhelm,1,1
+STW,Stewardess,2,1
+MEL,Motorradtyp Elke,1,1
